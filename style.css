@@ -240,7 +240,6 @@ section{
     box-shadow: -1px 1px 27px var(--main-color),
             3px 3px 10px var(--main-color) inset,
       1px -4px 7px var(--main-color) inset;
-    transform:scale(1.06);
 }
 .s-icon i{
 	font-size:32px;
