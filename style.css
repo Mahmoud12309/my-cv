@@ -537,7 +537,7 @@ font-size:1.5rem;
     height: 100vh;
     width: 100%;
     background-image: url(img/bg.png);
-    background-position: right;
+    background-position: 0%;
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
