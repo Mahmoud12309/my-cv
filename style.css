@@ -491,7 +491,10 @@ font-size:1.5rem;
 }
 @media(max-width:851px){
 .Services-content {
-    grid-template-columns: repeat(auto-fit, minmax(380px,auto));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 .contact{
 	grid-template-columns:1fr;
